@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entrepreneurship on &gt; $ cd /home/ █</title>
+    <link>//localhost:1313/tags/entrepreneurship/</link>
+    <description>Recent content in Entrepreneurship on &gt; $ cd /home/ █</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>delva.nadhif@gmail.com (Delva Nadhif)</managingEditor>
+    <webMaster>delva.nadhif@gmail.com (Delva Nadhif)</webMaster>
+    
+    <atom:link href="//localhost:1313/tags/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

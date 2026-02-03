@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Projects on &gt; $ cd /home/ █</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in My Projects on &gt; $ cd /home/ █</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>delva.nadhif@gmail.com (Delva Nadhif)</managingEditor>
+    <webMaster>delva.nadhif@gmail.com (Delva Nadhif)</webMaster>
+    
+    <lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Secure Document Vault: Hybrid Encryption</title>
+      <link>http://localhost:1313/projects/secure-document-vault/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <author>delva.nadhif@gmail.com (Delva Nadhif)</author>
+      <guid>http://localhost:1313/projects/secure-document-vault/</guid>
+      <description>Exploring the balance between speed and security. A backend system that uses Hybrid Cryptography to handle secure batch document uploads without compromising performance.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/secure-document-vault/feature-sdv.png" />
+    </item>
+    
+  </channel>
+</rss>
